@@ -1,5 +1,7 @@
 # imc_flutter
 
+![alt text](https://github.com/paulo-henrique-phcm/imc_flutter/blob/master/Screenshot_1580328364.png)
+![alt text](https://github.com/paulo-henrique-phcm/imc_flutter/blob/master/Screenshot_1580328416.png)
 A new Flutter project.
 
 ## Getting Started
